@@ -1,0 +1,7 @@
+int loop = 120
+float t = 12
+int count = 0
+while(count <= 10)
+   loop = loop - 1
+for(int i = 0; i < loop; i++)
+    t = t + i
